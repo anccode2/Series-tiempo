@@ -1,0 +1,147 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Ejemplo2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6664e30a504e311670804b8c1d1fe66e}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Enio\bibnamedelimb Nascimento\bibnamedelimb Pinho\bibnamedelimb Brasil\bibnamedelima Junior},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{6664e30a504e311670804b8c1d1fe66e}
+      \strng{fullhash}{6664e30a504e311670804b8c1d1fe66e}
+      \strng{bibnamehash}{6664e30a504e311670804b8c1d1fe66e}
+      \strng{authorbibnamehash}{6664e30a504e311670804b8c1d1fe66e}
+      \strng{authornamehash}{6664e30a504e311670804b8c1d1fe66e}
+      \strng{authorfullhash}{6664e30a504e311670804b8c1d1fe66e}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modeling of Transport Demand}
+      \field{number}{1}
+      \field{title}{Energy impact assessment of electric vehicle insertion in the Brazilian scenario, 2020 – 2050: a machine learning approach to fleet projection}
+      \field{volume}{4}
+      \field{year}{2023}
+      \field{pages}{100184}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.PRIME.2023.100184
+      \endverb
+    \endentry
+    \entry{Ejemplo3}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7e87635d3fa0bfc12c1b121436fd7c8b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yupu\bibnamedelima Huang},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{fullhash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{bibnamehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{authorbibnamehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{authornamehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{authorfullhash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Energy Technologies and Assessments}
+      \field{number}{1}
+      \field{title}{Density-based clustering multiple linear regression model of energy consumption for electric vehicles}
+      \field{volume}{53}
+      \field{year}{2022}
+      \field{pages}{102614}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.SETA.2022.102614
+      \endverb
+    \endentry
+    \entry{Ejemplo4}{article}{}
+      \name{author}{1}{}{%
+        {{hash=7e87635d3fa0bfc12c1b121436fd7c8b}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yupu\bibnamedelima Huang},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{fullhash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{bibnamehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{authorbibnamehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{authornamehash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \strng{authorfullhash}{7e87635d3fa0bfc12c1b121436fd7c8b}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainable Energy Technologies and Assessments}
+      \field{number}{1}
+      \field{title}{Density-based clustering multiple linear regression model of energy consumption for electric vehicles}
+      \field{volume}{53}
+      \field{year}{2022}
+      \field{pages}{102614}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.SETA.2022.102614
+      \endverb
+    \endentry
+    \entry{Ejemplo1}{article}{}
+      \name{author}{1}{}{%
+        {{hash=08c649479435f4782107e4137aefd385}{%
+           family={Hemavathi},
+           familyi={H\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           suffix={S.\bibnamedelimi Shinisha},
+           suffixi={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{08c649479435f4782107e4137aefd385}
+      \strng{fullhash}{08c649479435f4782107e4137aefd385}
+      \strng{bibnamehash}{08c649479435f4782107e4137aefd385}
+      \strng{authorbibnamehash}{08c649479435f4782107e4137aefd385}
+      \strng{authornamehash}{08c649479435f4782107e4137aefd385}
+      \strng{authorfullhash}{08c649479435f4782107e4137aefd385}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Modeling of Transport Demand}
+      \field{number}{105013}
+      \field{title}{A study on trends and developments in electric vehicle charging technologies}
+      \field{volume}{52}
+      \field{year}{2022}
+      \field{pages}{105013}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.EST.2022.105013
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
